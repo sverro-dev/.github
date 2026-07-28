@@ -10,7 +10,7 @@ SVERRO is an engineering organization working across hardware, software and appl
 
 Our focus is simple: **build useful systems, solve difficult problems and document what we learn.**
 
-[![Repositories](https://img.shields.io/badge/View_repositories-0F766E?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/sverro/repositories)
+[![Repositories](https://img.shields.io/badge/View_repositories-0F766E?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/sverro-dev/repositories)
 
 </div>
 
@@ -76,7 +76,7 @@ Tools for evaluating projects, investments and operational outcomes with clear, 
 
 `Management` `Analytics` `Platform`
 
-[View project →](https://github.com/sverro/pims)
+[View project →](https://github.com/sverro-dev/pims)
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -89,7 +89,7 @@ A connected workspace for organizing, discovering and maintaining technical know
 
 `Knowledge` `Documentation` `Search`
 
-[View project →](https://github.com/sverro/atlas)
+[View project →](https://github.com/sverro-dev/atlas)
 
 </td>
 </tr>
@@ -104,7 +104,7 @@ Reliable communication building blocks for embedded devices, networks and softwa
 
 `Communication` `Protocols` `Middleware`
 
-[View project →](https://github.com/sverro/lynk)
+[View project →](https://github.com/sverro-dev/lynk)
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -117,7 +117,7 @@ A modular sensing platform for motion, measurement and real-world data acquisiti
 
 `Sensors` `Embedded` `Hardware`
 
-[View project →](https://github.com/sverro/vsm)
+[View project →](https://github.com/sverro-dev/vsm)
 
 </td>
 </tr>
@@ -132,7 +132,7 @@ An experimental robotics platform exploring biological flight and intelligent co
 
 `Robotics` `Research` `Control`
 
-[View project →](https://github.com/sverro/papilo)
+[View project →](https://github.com/sverro-dev/papilo)
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -145,7 +145,7 @@ SDKs, drivers, components and utilities shared across SVERRO projects.
 
 `SDK` `Drivers` `Components`
 
-[Browse repositories →](https://github.com/orgs/sverro/repositories)
+[Browse repositories →](https://github.com/orgs/sverro-dev/repositories)
 
 </td>
 </tr>
@@ -194,7 +194,7 @@ Technical knowledge that evolves with the code.
 
 Explore our work, follow active projects and contribute to the repositories that interest you.
 
-[View all repositories](https://github.com/orgs/sverro/repositories) · [Visit SVERRO](https://github.com/sverro)
+[View all repositories](https://github.com/orgs/sverro-dev/repositories) · [Visit SVERRO](https://github.com/sverro-dev)
 
 <sub>© SVERRO · Engineering Tomorrow</sub>
 
