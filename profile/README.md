@@ -16,7 +16,7 @@ Our focus is simple: **build useful systems, solve difficult problems and docume
 
 <h2 align="center">Technology</h2>
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <td width="33%" valign="top" align="center">
 
@@ -24,12 +24,7 @@ Our focus is simple: **build useful systems, solve difficult problems and docume
 
 <br />
 
-<img src="https://img.shields.io/badge/C-263238?style=flat-square&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C++-263238?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Rust-263238?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/Python-263238?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-263238?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-263238?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+<p><img src="https://img.shields.io/badge/C-263238?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/C++-263238?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Rust-263238?style=flat-square&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/Python-263238?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-263238?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-263238?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /></p>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -38,11 +33,7 @@ Our focus is simple: **build useful systems, solve difficult problems and docume
 
 <br />
 
-<img src="https://img.shields.io/badge/STM32-0F766E?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-<img src="https://img.shields.io/badge/ESP32-0F766E?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-0F766E?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-<img src="https://img.shields.io/badge/FreeRTOS-0F766E?style=flat-square&logo=freertos&logoColor=white" alt="FreeRTOS" />
-<img src="https://img.shields.io/badge/Zephyr-0F766E?style=flat-square&logo=zephyrproject&logoColor=white" alt="Zephyr" />
+<p><img src="https://img.shields.io/badge/STM32-0F766E?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" /> <img src="https://img.shields.io/badge/ESP32-0F766E?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/Raspberry_Pi-0F766E?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" /> <img src="https://img.shields.io/badge/FreeRTOS-0F766E?style=flat-square&logo=freertos&logoColor=white" alt="FreeRTOS" /> <img src="https://img.shields.io/badge/Zephyr-0F766E?style=flat-square&logo=zephyrproject&logoColor=white" alt="Zephyr" /></p>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -51,12 +42,7 @@ Our focus is simple: **build useful systems, solve difficult problems and docume
 
 <br />
 
-<img src="https://img.shields.io/badge/React-047857?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-047857?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/FastAPI-047857?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/PostgreSQL-047857?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Docker-047857?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-047857?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+<p><img src="https://img.shields.io/badge/React-047857?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Node.js-047857?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/FastAPI-047857?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-047857?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Docker-047857?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-047857?style=flat-square&logo=linux&logoColor=white" alt="Linux" /></p>
 
 </td>
 </tr>
