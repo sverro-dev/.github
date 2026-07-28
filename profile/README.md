@@ -16,7 +16,7 @@ Our focus is simple: **build useful systems, solve difficult problems and docume
 
 <h2 align="center">Technology</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
 
@@ -64,7 +64,7 @@ Our focus is simple: **build useful systems, solve difficult problems and docume
 
 <h2 align="center">Projects</h2>
 
-<table id="projects">
+<table id="projects" width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
 
@@ -153,7 +153,7 @@ SDKs, drivers, components and utilities shared across SVERRO projects.
 
 <h2 align="center">Engineering</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td width="25%" valign="top" align="center">
 
