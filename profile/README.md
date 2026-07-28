@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" width="100%" alt="SVERRO — Engineering Tomorrow" />
+<img src="./assets/banner-main.png" width="100%" alt="SVERRO — Engineering Tomorrow" />
 
 <br />
 
