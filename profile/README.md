@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./v2/logo-animation-white.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./v2/logo-animation.svg" />
-  <img src="./v2/logo-animation.svg" width="100%" alt="SVERRO — Engineering Tomorrow" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/logo-animation-white.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/logo-animation.svg" />
+  <img src="./assets/brand/logo-animation.svg" width="100%" alt="SVERRO — Engineering Tomorrow" />
 </picture>
 
 <br />
