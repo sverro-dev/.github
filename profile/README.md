@@ -1,4 +1,8 @@
-<img src="./assets/banner-main.png" width="100%" alt="SVERRO — Engineering Tomorrow" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./v2/logo-animation-white.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./v2/logo-animation.svg" />
+  <img src="./v2/logo-animation.svg" width="100%" alt="SVERRO — Engineering Tomorrow" />
+</picture>
 
 <br />
 
